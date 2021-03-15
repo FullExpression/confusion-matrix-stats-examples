@@ -1,0 +1,20 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+
+    .line {
+        display: flex;
+        flex-direction: column;
+        margin: 10px;
+
+        .description {
+            font-size: 16px;
+        }
+
+        .value {
+            font-size: 14px;
+            font-style: italic;
+        }
+    }
+
+}
