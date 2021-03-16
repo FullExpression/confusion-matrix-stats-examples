@@ -1,6 +1,6 @@
 # Typescript @fullexpression/confusion-matrix-stats examples
 
-Typescript project containing a set of examples on how to consume @fullexpression/confusion-matrix-stats.
+Typescript project containing a set of examples on how to consume [@fullexpression/confusion-matrix-stats](https://github.com/FullExpression/confusion-matrix-stats).
 
 All examples are written in [index.js](./src/index.ts).
 

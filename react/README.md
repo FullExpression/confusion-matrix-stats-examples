@@ -1,6 +1,6 @@
 # React @fullexpression/confusion-matrix-stats examples
 
-React project containing a set of examples on how to consume @fullexpression/confusion-matrix-stats.
+React project containing a set of examples on how to consume [@fullexpression/confusion-matrix-stats](https://github.com/FullExpression/confusion-matrix-stats).
 
 All examples are written in [App.js](./src/App.js).
 

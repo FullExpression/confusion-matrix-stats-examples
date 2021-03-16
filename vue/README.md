@@ -1,6 +1,6 @@
 # Vue @fullexpression/confusion-matrix-stats examples
 
-Vue project containing a set of examples on how to consume @fullexpression/confusion-matrix-stats.
+Vue project containing a set of examples on how to consume [@fullexpression/confusion-matrix-stats](https://github.com/FullExpression/confusion-matrix-stats).
 
 All examples are written in [App.js](./src/components/Example.vue).
 

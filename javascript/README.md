@@ -1,6 +1,6 @@
 # Javascript @fullexpression/confusion-matrix-stats examples
 
-Javascript project containing a set of examples on how to consume @fullexpression/confusion-matrix-stats.
+Javascript project containing a set of examples on how to consume [@fullexpression/confusion-matrix-stats](https://github.com/FullExpression/confusion-matrix-stats).
 
 All examples are written in [script.js](./script.ts). The script and library are imported in [index.html](./index.html).
 
