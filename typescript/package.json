@@ -1,0 +1,19 @@
+{
+    "name": "typescriptexample",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "npx ts-node src"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "npx": "^10.2.2",
+        "ts-node": "^9.1.1",
+        "typescript": "^4.2.3"
+    },
+    "dependencies": {
+        "@fullexpression/confusion-matrix-stats": "^1.0.0"
+    }
+}
