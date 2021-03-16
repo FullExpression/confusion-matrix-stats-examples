@@ -1,11 +1,3 @@
-import { ConfusionMatrix, AverageMethod } from '@fullexpression/confusion-matrix-stats';
-
-console.log(`
-#############################
-###### Running Program ######
-#############################
-`);
-
 const confusionMatrix = new ConfusionMatrix({
     labels: ["Happiness", "Sadness", "Disgust"],
     matrix: [[50, 2, 3],
@@ -19,10 +11,7 @@ console.log(`The accuracy value is: ${accuracy}`);
 
 // Calculates the f1Score, only for "sadness" class, using the Macro average method.
 const f1score = confusionMatrix.f1Score({ label: "Sadness", average: AverageMethod.Macro });
-console.log(`The f1Score for 'Sadness' is ${f1score}`);
+console.log(`The f1Score for 'Sadness' is: ${f1score}`);
 
-console.log(`
-#############################
-###### Finish Running #######
-#############################
-`);
+document.getElementById('accuracy').innerHTML = accuracy;
+document.getElementById('f1score').innerHTML = f1score;
