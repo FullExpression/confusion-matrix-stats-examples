@@ -4,11 +4,11 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "build": "node index.js",
+        "build": "node index.js"
     },
     "author": "Ricardo Rocha",
     "license": "ISC",
     "dependencies": {
-        "@fullexpression/confusion-matrix-stats": "^1.0.0-alpha.1"
+        "@fullexpression/confusion-matrix-stats": "^1.0.0"
     }
 }
