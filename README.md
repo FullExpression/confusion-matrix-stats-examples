@@ -3,7 +3,7 @@
 This repository contains a set of examples of how to setup and use [@fullexpression/confusion-matrix-stats](https://github.com/FullExpression/confusion-matrix-stats) in different languages/frameworks:
 
 - [Angular](./angular);
-- [Javascript](./javascript) (importing inline library direcly in dom);
+- [Javascript](./javascript) (importing inline library directly in dom);
 - [NodeJS](./node-js);
 - [React](./react);
 - [Typescript](./typescript);
