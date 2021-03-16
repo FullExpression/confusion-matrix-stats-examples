@@ -2,7 +2,7 @@
 
 Javascript project containing a set of examples on how to consume [@fullexpression/confusion-matrix-stats](https://github.com/FullExpression/confusion-matrix-stats).
 
-All examples are written in [script.js](./script.ts). The script and library are imported in [index.html](./index.html).
+All examples are written in [script.js](./script.js). The script and library are imported in [index.html](./index.html).
 
 ## 🛠️ How to setup
 
