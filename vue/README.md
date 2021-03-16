@@ -1,24 +1,17 @@
-# vue-example
+# Vue @fullexpression/confusion-matrix-stats examples
 
-## Project setup
-```
-npm install
-```
+Vue project containing a set of examples on how to consume @fullexpression/confusion-matrix-stats.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+All examples are written in [App.js](./src/components/Example.vue).
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 🛠️ How to setup
 
-### Lints and fixes files
-```
-npm run lint
-```
+Run the following command:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+`npm install`
+
+## 👩‍💻 How to run
+
+Run the following command:
+
+`npm run server`
